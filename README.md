@@ -15,7 +15,7 @@ Ce projet est une boutique en ligne développée en **PHP**, avec une base de do
 
 boutique/
 ├── index.php #page d'accueil
-├── produits.php #liste des produits
+├── sport.php #liste des produits
 ├── panier.php #page panier
 ├── commande.php #validation de la commande
 ├── admin/
